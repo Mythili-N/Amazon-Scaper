@@ -61,13 +61,3 @@ This Python script automates the process of scraping product data from Amazon us
 - The script is currently set to scrape only one page of search results. You can adjust the range in the `for page in range(1, 2):` loop to scrape more pages.
 - Ensure compliance with Amazon's terms of service when using web scraping techniques.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [Selenium](https://www.selenium.dev/)
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
-
----
