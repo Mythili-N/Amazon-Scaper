@@ -71,5 +71,3 @@ This project is licensed under the MIT License.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
 ---
-
-Feel free to modify any sections to better fit your project and add any additional details you think are necessary!
